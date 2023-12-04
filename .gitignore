@@ -16,3 +16,6 @@ __pycache__/
 
 # Directories contain data is not used in the solution
 unused_data/
+
+# Directory contains data file exceeds GitHub's file size limit of 100.00 MB
+data/
