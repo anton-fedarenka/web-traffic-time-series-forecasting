@@ -1,0 +1,11 @@
+,p,d,q,filter,filt_q,smape,is_log,is_norm
+Main_Page_en.wikipedia.org_all-access_all-agents,9,0,8,quantile_filter,0.95,5.0,True,True
+大塚芳忠_ja.wikipedia.org_all-access_all-agents,9,1,7,quantile_filter,0.93,18.1,True,True
+The_Huntsman:_Winter's_War_en.wikipedia.org_mobile-web_all-agents,10,1,10,deriv_filter,0.93,25.2,True,True
+Temperatura_es.wikipedia.org_all-access_all-agents,10,0,9,quantile_filter,1.0,19.2,True,True
+Resident_Evil_7:_Biohazard_en.wikipedia.org_all-access_all-agents,10,1,7,deriv_filter,0.98,18.2,True,True
+"Путин,_Владимир_Владимирович_ru.wikipedia.org_mobile-web_all-agents",10,1,5,deriv_filter,0.9,19.6,True,True
+Coca-Cola_en.wikipedia.org_all-access_all-agents,8,1,7,quantile_filter,0.93,9.3,True,True
+Josh_Brolin_en.wikipedia.org_all-access_all-agents,10,0,3,quantile_filter,1.0,24.8,True,True
+Dick_Van_Dyke_en.wikipedia.org_all-access_all-agents,9,0,3,quantile_filter,0.98,18.3,True,True
+Cinco_de_Mayo_en.wikipedia.org_all-access_all-agents,6,0,4,quantile_filter,0.9,12.9,True,True
