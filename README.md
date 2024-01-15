@@ -14,7 +14,7 @@ Based on this, the studied models were trained on a limited data set of 10 time 
 logarithmically equidistant from each other in terms of the total number of views.
 
 The study is splitted in 3 parts: 
-- [data_visualization.ipynb](data_visualization.ipynb) is the first step of data handling, preprocessing, visualization, etc. Moreover, for the time series formed by the median values of visits to all Wikipedia pages, several regression models have been built and studied;
+- [data_visualization.ipynb](data_visualization.ipynb) contains the first step of data handling, preprocessing, visualization, etc. Moreover, for the time series formed by the median values of visits to all Wikipedia pages, several regression models have been built and studied;
 - [linear_models.ipynb](linear_models.ipynb) provides an overview of various linear models for time series forecasting;
 - [waveNet.ipynb](waveNet.ipynb) demonstrates the use of the WaveNet architecture for time series forecasting.
 
